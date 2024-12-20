@@ -1,0 +1,68 @@
+.woocommerce-form-row {
+    margin-bottom: 20px;
+}
+
+.woocommerce-form-row label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.woocommerce-Input {
+    width: 100%;
+    padding: 8px;
+}
+
+#image_preview {
+    margin-top: 10px;
+}
+
+.delete-product {
+    margin-left: 10px;
+}
+
+/* Table styles */
+.shop_table {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.shop_table th,
+.shop_table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.shop_table th {
+    background-color: #f8f8f8;
+}
+
+/* Pagination */
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.page-numbers {
+    padding: 5px 10px;
+    margin: 0 5px;
+    border: 1px solid #ddd;
+    text-decoration: none;
+}
+
+.page-numbers.current {
+    background-color: #f8f8f8;
+}
+
+.deleting {
+    pointer-events: none;
+}
+
+.success-message {
+    padding: 10px;
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    color: #3c763d;
+    border-radius: 4px;
+    margin: 10px 0;
+}
